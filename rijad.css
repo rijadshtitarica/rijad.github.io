@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ci{
+    margin: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: color(#007bff);
+}
+.h2{ 
+    text-align: center;
+}
+.fotoja img{
+    width: 500px;
+    max-height: 333px;
+    border-radius: 5px;
+    float: center;
+}
+.dev-text{
+    padding: 10px 0;
+    text-align: center;
+    font-size: 30px;
+}
